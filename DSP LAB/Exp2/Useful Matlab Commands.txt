@@ -1,0 +1,4 @@
+conv()
+xcorr(x,y) - cross correlation
+xcorr(x) - auto correlation
+circshift(A,k) - circular shifts matrix A by k units 
